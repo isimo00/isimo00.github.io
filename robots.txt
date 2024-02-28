@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://isimo00.github.io/sitemap.xml
