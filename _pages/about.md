@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Graduate researcher @ College of Computing, <a href='https://www.cc.gatech.edu/'>GT</a>. 
 
@@ -20,14 +20,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a graduate researcher currently working in PDE-constrained optimization under uncertainty under [Prof. Peng Chen](https://faculty.cc.gatech.edu/~pchen402/)'s supervision at Georgia Tech.
+I am currently working in PDE-constrained optimization under uncertainty under [Prof. Peng Chen](https://faculty.cc.gatech.edu/~pchen402/)'s supervision at Georgia Tech.
 
-My research interests include combinatorics and optimization (and how these discrete and continuous mathematics fields relate). In particular, I am interested in how different problems own nature intertwines with classic algorithmic approaches. 
+__My research interests__ include combinatorics and optimization (and how these discrete and continuous mathematics fields relate). In particular, I am interested in how different problems own nature intertwines with classic algorithmic approaches. 
 I have been closely studying election and opinion dynamics, gerrymandering or political districting and gossip games from this and other scopes. (Find more here)
 
-I obtained my Bs in Aerospace Engineering in 2022, and currently I am both completing my Bs in Economics and finishing the thesis for Ms in Computer Science.
+__My studies__ started with a Bs in Aerospace Engineering which I obtained in 2022. Currently, I am both completing my Bs in Economics and finishing the thesis for Ms in Computer Science.
 
-My working experience started in [Hewlett-Packard](https://www.hp.com/us-en/hp-labs/research/overview.html) and I have gravitated towards more academic-inclined positions since then, collaborating with the Barcelona Supercomutng Center ([BSC-CSN](https://www.bsc.es/)) for my bachelor thesis, and interning at the International Centre of Numerical Methods in Engineering ([CIMNE](https://www.cimne.com/)) among other collaborations with professors.
+__My working experience__ began at [Hewlett-Packard](https://www.hp.com/us-en/hp-labs/research/overview.html) and I have gravitated towards more academic-inclined positions since then, collaborating with the Barcelona Supercomutng Center ([BSC-CSN](https://www.bsc.es/)) for my bachelor thesis, and interning at the International Centre of Numerical Methods in Engineering ([CIMNE](https://www.cimne.com/)) among other collaborations with professors.
 
 <!--- 
 I was also an active member of the ? during my undergraduate, was class representative all years, tresaurer of the student's union, mentor for first year students and student representaive in different faculty govern comissions.

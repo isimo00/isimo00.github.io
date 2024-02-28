@@ -1,14 +1,14 @@
 ---
-layout: default
+layout: page
 permalink: /blog/
-title: blog
+title: Blog
 nav: true
 nav_order: 1
 pagination:
-  enabled: true
+  enabled: false
   collection: posts
   permalink: /page/:num/
-  per_page: 5
+  per_page: 10
   sort_field: date
   sort_reverse: true
   trail:
@@ -24,11 +24,12 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
+    <!-- <h1>{{ site.blog_name }}</h1> -->
     <h2>{{ site.blog_description }}</h2>
   </div>
   {% endif %}
 
+<!--
 {% if site.display_tags or site.display_categories %}
 
   <div class="tag-category-list">
@@ -55,7 +56,9 @@ pagination:
     </ul>
   </div>
   {% endif %}
+-->
 
+<!--
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
 <br>
@@ -100,6 +103,7 @@ pagination:
     <hr>
 
 {% endif %}
+-->
 
   <ul class="post-list">
 
@@ -110,20 +114,22 @@ pagination:
     {% endif %}
 
     {% for post in postlist %}
-
+    
+    
     {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
     {% else %}
       {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
     {% endif %}
+    
     {% assign year = post.date | date: "%Y" %}
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
 
     <li>
-
+    
+ 
 {% if post.thumbnail %}
-
 <div class="row">
           <div class="col-sm-9">
 {% endif %}
@@ -140,6 +146,7 @@ pagination:
         {% endif %}
       </h3>
       <p>{{ post.description }}</p>
+      <!--
       <p class="post-meta">
         {{ read_time }} min read &nbsp; &middot; &nbsp;
         {{ post.date | date: '%B %d, %Y' }}
@@ -167,6 +174,7 @@ pagination:
               {% endfor %}
           {% endif %}
     </p>
+    -->
 
 {% if post.thumbnail %}
 
