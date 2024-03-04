@@ -19,11 +19,12 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+This website is under construction! This page and "events" are up for consultation, the rest is subject to changes and might be incomplete at the moment.
 
-I am currently working in PDE-constrained optimization under uncertainty under [Prof. Peng Chen](https://faculty.cc.gatech.edu/~pchen402/)'s supervision at Georgia Tech.
+I am currently working in PDE-constrained optimization under uncertainty under [Prof. Peng Chen](https://faculty.cc.gatech.edu/~pchen402/)'s supervision and in a randomized version of an All-Pair Shortest Path algorithm under [Prof. Richard Vuduc](https://vuduc.org/v2/) at Georgia Tech.
 
 __My research interests__ include combinatorics and optimization (and how these discrete and continuous mathematics fields relate). In particular, I am interested in how different problems own nature intertwines with classic algorithmic approaches. 
-I have been closely studying election and opinion dynamics, gerrymandering or political districting and gossip games from this and other scopes. (Find more here)
+I have been closely studying election and opinion dynamics, gerrymandering or political districting and gossip games from this and other scopes.
 
 __My studies__ started with a Bs in Aerospace Engineering which I obtained in 2022. Currently, I am both completing my Bs in Economics and finishing the thesis for Ms in Computer Science.
 

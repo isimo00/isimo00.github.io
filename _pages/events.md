@@ -1,4 +1,12 @@
-# Talks, conferences, symposia/symposiums, congresses...
+---
+layout: page
+title: Events
+permalink: /events/
+description: Talks, conferences, symposia/symposiums where I have presented or that I have attended
+nav: true
+nav_order: 3
+horizontal: false
+---
 
 ## Talks
 

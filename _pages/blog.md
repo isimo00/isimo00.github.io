@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blog/
-title: Blog
+title: Blog - Under construction!
 nav: true
 nav_order: 1
 pagination:
