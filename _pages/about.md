@@ -6,7 +6,7 @@ subtitle: Graduate researcher @ College of Computing, <a href='https://www.cc.ga
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>imunoz7 at gatech dot edu</p>
