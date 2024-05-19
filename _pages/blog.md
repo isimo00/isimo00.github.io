@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blog/
-title: Blog - Under construction!
+permalink: /rhg/
+title: Random Hyperbolic Graphs
 nav: true
 nav_order: 1
 pagination:
