@@ -22,4 +22,7 @@ _Gerrymandering_ is the practice of partitioning a graph in I have modelled this
 ## 1. Heuristic
 I designed and implemented a smart version of a greedy algorithm for faster convergence of a satisfactory partition.
 
-(Here)[assets/gerrymandering_slides.pdf] are the slides of a very short presentation I created to explain how the heuristic works
+Here are the slides of a very short presentation I created to explain how the heuristic works
+
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/g.pdf" width="1000" height="1000" type="application/pdf"></object>
+
