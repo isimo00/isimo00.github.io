@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /rhg/
-title: Random Hyperbolic Graphs
+title: Graphs
 nav: true
 nav_order: 1
 pagination:
