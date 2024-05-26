@@ -19,16 +19,14 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-This website is under construction! This page and "events" are up for consultation, the rest is subject to changes and might be incomplete at the moment.
-
 I am currently working in PDE-constrained optimization under uncertainty under [Prof. Peng Chen](https://faculty.cc.gatech.edu/~pchen402/)'s supervision and in a randomized version of an All-Pair Shortest Path algorithm under [Prof. Richard Vuduc](https://vuduc.org/v2/) at Georgia Tech.
 
-__My research interests__ include combinatorics and optimization (and how these discrete and continuous mathematics fields relate). In particular, I am interested in how different problems own nature intertwines with classic algorithmic approaches. 
-I have been closely studying election and opinion dynamics, gerrymandering or political districting and gossip games from this and other scopes.
+__My research interests__ include graph theory and optimization. In particular, I am interested in how different problems own nature intertwines with classic algorithmic approaches. 
+I have been working on gossip spread in Hyperbolic Random Graphs, gerrymandering or political districting and randomized triangle counting in large graphs and networks.
 
-__My studies__ started with a Bs in Aerospace Engineering which I obtained in 2022. Currently, I am both completing my Bs in Economics and finishing the thesis for Ms in Computer Science.
+__My studies__ include a Ms in Computer Science for which I am currently finishing the thesis. I am a graduate in Aerospace Engineering (2022), and a Bs in Economics that I am completing part time.
 
-__My working experience__ began at [Hewlett-Packard](https://www.hp.com/us-en/hp-labs/research/overview.html) and I have gravitated towards more academic-inclined positions since then, collaborating with the Barcelona Supercomutng Center ([BSC-CSN](https://www.bsc.es/)) for my bachelor thesis, and interning at the International Centre of Numerical Methods in Engineering ([CIMNE](https://www.cimne.com/)) among other collaborations with professors.
+__My working experience__ began as an intern at [Hewlett-Packard](https://www.hp.com/us-en/hp-labs/research/overview.html).  I since have gravitated towards more academic-inclined positions, collaborating with the Barcelona Supercomutng Center ([BSC-CSN](https://www.bsc.es/)) for my [bachelor thesis](https://upcommons.upc.edu/handle/2117/372288), and interning at the International Centre of Numerical Methods in Engineering ([CIMNE](https://www.cimne.com/)) among other collaborations with professors. Since January 2024, I am working full-time as a visiting researcher at [Georgia Tech](https://www.cc.gatech.edu/).
 
 <!--- 
 I was also an active member of the ? during my undergraduate, was class representative all years, tresaurer of the student's union, mentor for first year students and student representaive in different faculty govern comissions.
