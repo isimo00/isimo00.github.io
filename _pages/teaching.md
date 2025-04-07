@@ -11,7 +11,7 @@ horizontal: false
 ## Talks and presentations
 
 ### Spring 2025
-- *Programming 1* CS major, FIB, Universitat Politècnica de Catalunya. Exercises at [jutge.org](http.//jutge.org)
+- *Programming 1* CS major, FIB, Universitat Politècnica de Catalunya. Exercises at [jutge.org](https://jutge.org)
 - *Data Structures and Algorithms* CS major, FIB, Universitat Politècncia de Catalunya. Exercises at [jutge.org](https://jutge.org)
 
 ### Fall 2024

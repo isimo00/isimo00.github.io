@@ -18,12 +18,12 @@ horizontal: false
 ## Conferences and symposia
 
 - Georgia Scientific Computing Symposium (GSCS) 2024, February. Emory University Atlanta, USA.
-- Discrete Probability Days 2023, October. Centre de Recerca Maetmàtica, campus de Bellaterra, Barcelona. Personally granted assistance access by organizer [Prof. Dieter Mitsche](https://www.mat.uc.cl/personas/perfil/dieter.mitsche)
+- Discrete Probability Days 2023, October. Centre de Recerca Maetmàtica, campus de Bellaterra, Barcelona. Personally granted assistance access by organizer Prof. Dieter Mitsche
 - Symposium on Experimental Algorithms (SEA) 2023, July. Universitat Politècnica de Catalunya, Barcelona. Personally granted assistance access by organizer [Prof. Maria Serna](https://www.cs.upc.edu/~mjserna/)
 
 
 ## Relevant workshops
 
 - Bringing Young Mathematicians Together (BYMAT) 2023, November. Instituto de Ciencias Matemáticas (ICMAT), campus de Cantoblanco, Madrid. Presenter.
-- *Mini-course on Random Geometric Graphs* by [Prof. Dieter Mitsche](https://www.mat.uc.cl/personas/perfil/dieter.mitsche) (Universidad Católica de Chile), 2023, Ocotber. Centre de Recerca Matemàtica, campus de Bellaterra, Barcelona
+- *Mini-course on Random Geometric Graphs* by Prof. Dieter Mitsche (Universidad Católica de Chile), 2023, Ocotber. Centre de Recerca Matemàtica, campus de Bellaterra, Barcelona
 - *Cover and Hitting Times of Hyperbolic Random Graphs* by [Prof. Marcos Kiwi](https://www.dim.uchile.cl/~mkiwi/) (Universidad Católica de Chile), 2023, November. LIMDA Seminar at Universitat Politècnica de Catalunya.
