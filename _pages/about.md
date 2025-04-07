@@ -2,31 +2,29 @@
 layout: about
 title: About
 permalink: /
-subtitle: Graduate researcher @ College of Computing, <a href='https://www.cc.gatech.edu/'>GT</a>. 
+subtitle: 1st year PhD student @ Cornell <a href='https://cis.cornell.edu/'>CIS</a> (starting this fall!). 
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>imunoz7 at gatech dot edu</p>
-    <p>E1319B CODA building </p>
-    <p>756 West Peachtree Street Northwest</p>
-    <p>Atlanta, GA 30308</p>
+    <p>is449 at cornell dot edu</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am currently working in PDE-constrained optimization under uncertainty under [Prof. Peng Chen](https://faculty.cc.gatech.edu/~pchen402/)'s supervision and in a randomized version of an All-Pair Shortest Path algorithm under [Prof. Richard Vuduc](https://vuduc.org/v2/) at Georgia Tech.
+I am currently working as a SWE at the Barcelona Supercomputing Center developing the [Autosubmit](https://autosubmit.readthedocs.io/en/master/) workflow manager for climate modelling in High Performance Computing. Come chat at my talk in the *FAIR-By-Design HPC-Driven Research* minisymposium @ PASC'25 (June, 2025).
 
-__My research interests__ include graph theory and optimization. In particular, I am interested in how different problems own nature intertwines with classic algorithmic approaches. 
-I have been working on gossip spread in Hyperbolic Random Graphs, gerrymandering or political districting and randomized triangle counting in large graphs and networks.
+Previously I was at Georgia Tech as a graduate researcher. I collaborated with Prof. [Rich Vuduc](https://vuduc.org/v2/) in randomized triangle counting and won [2nd place in the ACM Student Research Competition (Graduate) @ SC'24](https://src.acm.org/winners/2025). I also worked in PDE-constrained optimization under uncertainty under [Prof. Peng Chen](https://faculty.cc.gatech.edu/~pchen402/)'s supervision.
 
-__My studies__ include a Ms in Computer Science for which I am currently finishing the thesis. I am a graduate in Aerospace Engineering (2022), and a Bs in Economics that I am completing part time.
+__My research interests__ include Randomized Numerical Linear Algebra, HPC and graph problems. 
 
-__My working experience__ began as an intern at [Hewlett-Packard](https://www.hp.com/us-en/hp-labs/research/overview.html).  I since have gravitated towards more academic-inclined positions, collaborating with the Barcelona Supercomutng Center ([BSC-CSN](https://www.bsc.es/)) for my [bachelor thesis](https://upcommons.upc.edu/handle/2117/372288), and interning at the International Centre of Numerical Methods in Engineering ([CIMNE](https://www.cimne.com/)) among other collaborations with professors. Since January 2024, I am working full-time as a visiting researcher at [Georgia Tech](https://www.cc.gatech.edu/).
+__In terms of education__ I have obtained both my Master's in Computer Science (2024) and my Bachelor's in Aerospace Engineering (2022). I will be starting my PhD in August, 2025.
+
+__Past experiences__ include an internship at [Hewlett-Packard](https://www.hp.com/us-en/hp-labs/research/overview.html).  I since have gravitated towards more academic-inclined positions, collaborating with the Barcelona Supercomutng Center ([BSC](https://www.bsc.es/)) for my [bachelor thesis](https://upcommons.upc.edu/handle/2117/372288), and interning at the International Centre of Numerical Methods in Engineering ([CIMNE](https://www.cimne.com/)) among other collaborations with professors.
 
 <!--- 
 I was also an active member of the ? during my undergraduate, was class representative all years, tresaurer of the student's union, mentor for first year students and student representaive in different faculty govern comissions.

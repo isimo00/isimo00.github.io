@@ -24,10 +24,6 @@ I designed and implemented a smart version of a greedy algorithm for faster conv
 
 I first mapped the typical electoral map to a graph in such a way that each district is a connected component. This implies the decision variables of our problem are edges; removing and adding edges can
 
-Here are the slides of a very short presentation I created to explain how the heuristic works
-
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/g.pdf" width="1000" height="500" type="application/pdf"></object>
-
 ## 2. Combinatorial problem
 The translation of an electoral map to a lattice graph, as previously stated, naturally positions the focus of the problem on the edges. With this, the most natural choice for our decision variables is to use the adjacency matrix of such graph $$A$$. Moreover, given that the graph is a lattice, the matrix will present a certain structure. For instance, for a $$3x2$$ grid, labeled from left to right by rows,
 
