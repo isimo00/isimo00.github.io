@@ -5,13 +5,13 @@ permalink: /projects/
 description: Some stuff I made that is worth sharing! (Not for diploma obtention)
 nav: true
 nav_order: 3
-display_categories: [tools, templates]
+display_categories: [research, tools, templates]
 horizontal: false
 ---
 
 ### Under supervision
 Some notable projects I have contributed to (not including my BSc and MSc thesis):
-- `Autosubmit` workflow manager. Property of the Models and Workflows tram in the Computational Earth sciences department @ BSC. [Github repo](https://github.com/BSC-ES) **2023-present**.
+- `Autosubmit` workflow manager. Property of the Models and Workflows team in the Computational Earth Sciences department @ BSC. [Github repo](https://github.com/BSC-ES) **2023-2025**.
 - `soupy` library for Stochastic Optimization under high-dimensional Uncertainty in Python, developed by the Scientific Computing and Uncertainty Quantification @ GeorgiaTech. [Github repo](https://github.com/hippylib/soupy) (Python) **2024**
 - _Study on the union of hyperbolic graphs_. Private repository, under [Prof. Maria Serna](https://www.cs.upc.edu/~mjserna/)'s supervision. **2023-24**
 - `biggr` library, developed by BEEGroup @ CIMNE. [Github repo](https://github.com/biggproject/biggr) (R) **2023**

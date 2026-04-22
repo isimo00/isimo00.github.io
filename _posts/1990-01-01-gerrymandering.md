@@ -11,7 +11,7 @@ mermaid:
 
 # Gerrymandering or Political Districting
 
-The "Masachussetts Problem"
+The "Massachusetts Problem"
 
 _Gerrymandering_ is the practice of partitioning a graph in I have modelled this problem from three different perspectives:
 

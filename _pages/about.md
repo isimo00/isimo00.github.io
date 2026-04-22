@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 1st year PhD student @ Cornell <a href='https://cis.cornell.edu/'>CIS</a> (starting this fall!). 
+subtitle: 1st year PhD student @ Cornell <a href='https://cis.cornell.edu/'>CIS</a>.
 
 profile:
   align: right
@@ -16,22 +16,16 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am currently working as a SWE at the Barcelona Supercomputing Center developing the [Autosubmit](https://autosubmit.readthedocs.io/en/master/) workflow manager for climate modelling in High Performance Computing. Come chat at my talk in the *FAIR-By-Design HPC-Driven Research* minisymposium @ PASC'25 (June, 2025).
+I am a first-year PhD student at Cornell CIS. My research focuses on making large-scale computation more efficient through novel hardware and algorithms, so that scientists in fields like climate modelling, drug discovery, and astrophysics can run bigger simulations and train larger models without waiting days for results.
 
-Previously I was at Georgia Tech as a graduate researcher. I collaborated with Prof. [Rich Vuduc](https://vuduc.org/v2/) in randomized triangle counting and won [2nd place in the ACM Student Research Competition (Graduate) @ SC'24](https://src.acm.org/winners/2025). I also worked in PDE-constrained optimization under uncertainty under [Prof. Peng Chen](https://faculty.cc.gatech.edu/~pchen402/)'s supervision.
+Concretely, I work on __Processing-In-Memory (PIM)__ architectures and __low-precision arithmetic__ for high performance computing. PIM is a paradigm shift in hardware design: instead of shuttling data back and forth between memory and processors --- the main bottleneck in modern computing --- PIM performs computation right where the data lives. This dramatically cuts energy consumption and speeds up data-hungry workloads like sparse matrix operations, which are the backbone of scientific simulations and machine learning inference alike. Combined with low-precision arithmetic, which trades a small, controlled amount of numerical accuracy for large gains in speed and memory, these approaches let researchers tackle problems that were previously out of reach on conventional hardware.
 
-__My research interests__ include Randomized Numerical Linear Algebra, HPC and graph problems. 
+My current projects include sparse matrix-multiply kernels for pruned large language models on SK Hynix's GDDR6-AiM architecture, and mixed-precision iterative solvers for PDE-constrained optimization in scientific computing.
 
-__In terms of education__ I have obtained both my Master's in Computer Science (2024) and my Bachelor's in Aerospace Engineering (2022). I will be starting my PhD in August, 2025.
+__Previously__, I was a software engineer at the Barcelona Supercomputing Center ([BSC](https://www.bsc.es/)) developing the [Autosubmit](https://autosubmit.readthedocs.io/en/master/) workflow manager for climate modelling in HPC. Before that, I was at Georgia Tech as a graduate researcher. I collaborated with Prof. [Rich Vuduc](https://vuduc.org/v2/) in randomized triangle counting and won [2nd place in the ACM Student Research Competition (Graduate) @ SC'24](https://src.acm.org/winners/2025). I also worked in PDE-constrained optimization under uncertainty under [Prof. Peng Chen](https://faculty.cc.gatech.edu/~pchen402/)'s supervision.
 
-__Past experiences__ include an internship at [Hewlett-Packard](https://www.hp.com/us-en/hp-labs/research/overview.html).  I since have gravitated towards more academic-inclined positions, collaborating with the Barcelona Supercomutng Center ([BSC](https://www.bsc.es/)) for my [bachelor thesis](https://upcommons.upc.edu/handle/2117/372288), and interning at the International Centre of Numerical Methods in Engineering ([CIMNE](https://www.cimne.com/)) among other collaborations with professors.
+__My research interests__ include Processing-In-Memory architectures, low-precision arithmetic, Randomized Numerical Linear Algebra, HPC and graph problems.
 
-<!--- 
-I was also an active member of the ? during my undergraduate, was class representative all years, tresaurer of the student's union, mentor for first year students and student representaive in different faculty govern comissions.
+__In terms of education__ I have obtained both my Master's in Computer Science from Georgia Tech (2024) and my Bachelor's in Aerospace Engineering from UPC Barcelona (2022).
 
-# Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
---->
+__Past experiences__ include an internship at [Hewlett-Packard](https://www.hp.com/us-en/hp-labs/research/overview.html). I since have gravitated towards more academic-inclined positions, collaborating with the Barcelona Supercomputing Center ([BSC](https://www.bsc.es/)) for my [bachelor thesis](https://upcommons.upc.edu/handle/2117/372288), and interning at the International Centre of Numerical Methods in Engineering ([CIMNE](https://www.cimne.com/)) among other collaborations with professors.
