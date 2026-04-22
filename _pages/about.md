@@ -9,7 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>is449atcornelldotedu</p>
+    <p>is449 at cornell dot edu</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 <p style="text-align: center;">
-I am an aerospace engineer turned computer scientist to answer a question I first met as a user of supercomputers: why do so many scientific simulations stall not because we lack ideas, but because we lack compute and energy to run them?
+_I am an aerospace engineer turned computer scientist to answer a question I first met as a user of supercomputers: why do so many scientific simulations stall not because we lack ideas, but because we lack compute and energy to run them?_
 </p>
 
 My research focuses on making large-scale __computation more efficient and accesible__ through novel hardware and algorithms, so that scientists in other fields like climate modelling, drug discovery, and astrophysics can run bigger simulations and train larger models without waiting days for results.
