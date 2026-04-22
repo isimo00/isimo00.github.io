@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-06-01 09:00:00-0400   # TODO: replace with the actual award date
+date: 2025-06-01 09:00:00-0400   # TODO: replace with the actual award date
 inline: true
 related_posts: false
 ---

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my PhD in Computer Science at **[Cornell](https://cis.cornell.edu/)**, advised by [Giulia Guidi](https://giuliaguidi.github.io/) and [José Martínez](https://www.csl.cornell.edu/~martinez/) in the [ALPS lab](https://giuliaguidi.github.io/hpcgroup/).
+Started my PhD in Computer Science at **[Cornell](https://cis.cornell.edu/)**, advised by [Prof. Giulia Guidi](https://giuliaguidi.github.io/) in the [ALPS lab](https://giuliaguidi.github.io/hpcgroup/) and collaborating with [Prof. José Martínez](https://www.csl.cornell.edu/~martinez/).
