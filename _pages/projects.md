@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Some stuff I made that is worth sharing! (Not for diploma obtention)
-nav: true
+nav: false
 nav_order: 3
 display_categories: [research, tools, templates]
 horizontal: false

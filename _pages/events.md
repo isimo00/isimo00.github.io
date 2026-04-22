@@ -3,7 +3,7 @@ layout: page
 title: Events
 permalink: /events/
 description: Talks I've given and conferences and symposia that I have attended
-nav: true
+nav: false
 nav_order: 3
 horizontal: false
 ---
