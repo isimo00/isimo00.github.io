@@ -17,7 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 <p style="text-align: center;">
-_I am an aerospace engineer turned computer scientist to answer a question I first met as a user of supercomputers: why do so many scientific simulations stall not because we lack ideas, but because we lack compute and energy to run them?_
+<em>
+I am an aerospace engineer turned computer scientist to answer a question I first met as a user of supercomputers: why do so many scientific simulations stall not because we lack ideas, but because we lack compute and energy to run them?
+</em>
 </p>
 
 My research focuses on making large-scale __computation more efficient and accesible__ through novel hardware and algorithms, so that scientists in other fields like climate modelling, drug discovery, and astrophysics can run bigger simulations and train larger models without waiting days for results.
