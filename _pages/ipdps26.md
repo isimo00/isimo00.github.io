@@ -12,7 +12,7 @@ nav: false
 
   <ul>
     <li>
-      <a href="{{ '/assets/pdf/ipdps26/Poster_sumamary.pdf' | relative_url }}" target="_blank">
+      <a href="{{ '/assets/pdf/ipdps26/Poster_summary.pdf' | relative_url }}" target="_blank">
         Poster Summary (PDF)
       </a>
     </li>
