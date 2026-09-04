@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 1st year PhD student @ Cornell <a href='https://cis.cornell.edu/'>CIS</a>, advised by <a href='https://giuliaguidi.github.io/'>Prof. Giulia Guidi</a> in the <a href='https://giuliaguidi.github.io/hpcgroup/'>ALPS lab</a> and collaborating with <a href='https://www.csl.cornell.edu/~martinez/'>Prof. José Martínez</a> 
+subtitle: 2nd year PhD student @ Cornell <a href='https://cis.cornell.edu/'>CIS</a>, advised by <a href='https://giuliaguidi.github.io/'>Prof. Giulia Guidi</a> in the <a href='https://giuliaguidi.github.io/hpcgroup/'>ALPS lab</a> and collaborating with <a href='https://www.csl.cornell.edu/~martinez/'>Prof. José Martínez</a> 
 
 profile:
   align: right
